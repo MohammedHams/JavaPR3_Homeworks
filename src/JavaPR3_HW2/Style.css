@@ -1,0 +1,7 @@
+.button {
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+    -fx-border-radius: 20;
+    -fx-border-color: blue;
+    -fx-background-radius:20;    
+}
