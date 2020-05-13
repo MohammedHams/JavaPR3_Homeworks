@@ -25,7 +25,7 @@ import javax.persistence.Persistence;
 /**
  * FXML Controller class
  *
- * @author MohammedHams
+ * @author Marshal
  */
 public class TextAreaController implements Initializable {
 

@@ -26,7 +26,7 @@ import javax.persistence.Query;
 /**
  * FXML Controller class
  *
- * @author MohammedHams
+ * @author Marshal
  */
 public class Student_TransactionController implements Initializable {
 

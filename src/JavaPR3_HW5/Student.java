@@ -13,7 +13,7 @@ import javax.persistence.NamedQuery;
 
 /**
  *
- * @author khalil
+ * @author Marshal
  */
 @Entity
 @NamedQueries({
